@@ -2,29 +2,29 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 22px;
-  background-color: #4499cc;
-  color: #444444;
+  background-color: #49c;
+  color: #444;
 }
 
 header {
   height:74px;
-  background-color: #4499cc
+  background-color: #49c
 }
 
 h2, h3{
-  color: #4499cc
+  color: #49c
 }
 
 h1 {
   font-size: 26px;
   line-height: 74px;
-  color: #ffffff;
+  color: #fff;
   font-weight: 600;
   text-align: center;
 }
 
 h2 {
-  border-bottom: 1px solid #4499cc;
+  border-bottom: 1px solid #49c;
   font-size: 24px;
   line-height: 30px;
   margin-bottom: 24px;
@@ -35,7 +35,7 @@ h3 {
 }
 
 a {
-  color: #4499cc;
+  color: #49c;
   text-decoration:underline;
 }
 
@@ -49,7 +49,7 @@ p {
 }
 
 main {
-  background-color: #ffffff;
+  background-color: #fff;
   padding: 24px 0;
 }
 
@@ -63,11 +63,11 @@ main {
 .users img
 {
   border-radius: 32px;
-  border: 1px solid #dddddd;
+  border: 1px solid #ddd;
   height: 64px;
   width: 64px;
   float: left;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 .users h3, .users span {
   margin-left: 76px;
@@ -79,7 +79,7 @@ main {
 
 footer{
   text-align: center;
-  color: #ffffff;
+  color: #fff;
   line-height: 36px;
 }
 footer a {
