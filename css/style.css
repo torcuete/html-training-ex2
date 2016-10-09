@@ -8,11 +8,11 @@ body {
 
 header {
   height:74px;
-  background-color: #49c
+  background-color: #49c;
 }
 
 h2, h3{
-  color: #49c
+  color: #49c;
 }
 
 h1 {
@@ -31,7 +31,7 @@ h2 {
 }
 
 h3 {
-  style='font-size: 22px;line-height: 26px;'
+  style='font-size: 22px;line-height: 26px;';
 }
 
 a {
@@ -40,7 +40,7 @@ a {
 }
 
 p {
-  margin-bottom: 24px
+  margin-bottom: 24px;
 }
 
 .container {
@@ -54,11 +54,11 @@ main {
 }
 
 .users {
-  overflow: hidden
+  overflow: hidden;
 }
 .users li {
   overflow: hidden;
-  margin-bottom: 24px
+  margin-bottom: 24px;
 }
 .users img
 {
