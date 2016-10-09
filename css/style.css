@@ -43,7 +43,7 @@ p {
   margin-bottom: 24px
 }
 
-div.container {
+.container {
   width: 480px;
   margin: auto;
 }
@@ -53,14 +53,14 @@ main {
   padding: 24px 0px;
 }
 
-ul.users {
+.users {
   overflow: hidden
 }
-ul.users li {
+.users li {
   overflow: hidden;
   margin-bottom: 24px
 }
-ul.users img
+.users img
 {
   border-radius: 32px;
   border: 1px solid #dddddd;
@@ -69,10 +69,10 @@ ul.users img
   float: left;
   background-color: #ffffff;
 }
-ul.users h3, ul.users span {
+.users h3, .users span {
   margin-left: 76px;
 }
-ul.users span {
+.users span {
   display: block;
   line-height: 30px;
 }
