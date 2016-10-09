@@ -41,5 +41,5 @@ finding the listed "errors" in the given code:
 
 * [Use single quotation marks for attribute selectors and property values](https://google.github.io/styleguide/htmlcssguide.xml?showone=CSS_Quotation_Marks#CSS_Quotation_Marks): 1 occurrence.
 
-Note that fixing this code styling errors shoult not change the rendering of
+Note that fixing this code styling errors should not change the rendering of
 the web page.
