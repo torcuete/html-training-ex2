@@ -53,14 +53,14 @@ main {
   padding: 24px 0px;
 }
 
-ul.usrs {
+ul.users {
   overflow: hidden
 }
-ul.usrs li {
+ul.users li {
   overflow: hidden;
   margin-bottom: 24px
 }
-ul.usrs img
+ul.users img
 {
   border-radius: 32px;
   border: 1px solid #dddddd;
@@ -69,10 +69,10 @@ ul.usrs img
   float: left;
   background-color: #ffffff;
 }
-ul.usrs h3, ul.usrs span {
+ul.users h3, ul.users span {
   margin-left: 76px;
 }
-ul.usrs span {
+ul.users span {
   display: block;
   line-height: 30px;
 }
