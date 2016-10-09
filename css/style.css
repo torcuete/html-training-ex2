@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  height:74px;
+  height: 74px;
   background-color: #49c;
 }
 
@@ -31,12 +31,12 @@ h2 {
 }
 
 h3 {
-  style='font-size: 22px;line-height: 26px;';
+  style='font-size: 22px; line-height: 26px;';
 }
 
 a {
   color: #49c;
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 p {
